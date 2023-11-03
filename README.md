@@ -2,7 +2,7 @@
 
 <div>
 <p> - 🔭 I’m currently working on File-Storage project, Web-project for company, AI - anime girl assistant project. </p>
-<div> - 🌱 I’m currently learning Golang <div>
+<p> - 🌱 I’m currently learning Golang </p>
 <div> - 🤔 I’m looking for help with Golang <div>
 <div> - 📫 How to reach me: bakhytulynurzhan@gmail.com <div>
 <div> - ⚡ Fun fact: I held the elevator for 8 minutes. <div>
