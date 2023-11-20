@@ -5,7 +5,6 @@
 <p> - 🌱 I’m currently learning Golang </p>
 <p> - 🤔 I’m looking for help with Golang </p>
 <p> - 📫 How to reach me: bakhytulynurzhan@gmail.com </p>
-<p> - ⚡ Fun fact: I held the elevator for 8 minutes. </p>
 </div>
 <div align="center">
   <br>
