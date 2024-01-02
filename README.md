@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <div>
-<p> - 🔭 I’m currently working on File-Storage project, Web-project for company, AI - anime girl assistant project. </p>
-<p> - 🌱 I’m currently learning Golang </p>
-<p> - 🤔 I’m looking for help with Golang </p>
 <p> - 📫 How to reach me: bakhytulynurzhan@gmail.com </p>
 </div>
 <div align="center">
