@@ -12,7 +12,6 @@ I'm a passionate software developer specializing in desktop app. Welcome to my G
 ### Contact 👋
 
 <div>
-<p> - LinkedIn: ([Your LinkedIn](https://www.linkedin.com/in/nurzhan-bakhytuly-89b99824a/))</p>
 
 <p> - 📫 How to reach me: bakhytulynurzhan@gmail.com </p>
 </div>
