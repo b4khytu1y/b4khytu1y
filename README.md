@@ -9,11 +9,9 @@ I'm a passionate software developer specializing in desktop app. Welcome to my G
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-### Contact 👋
-
+### Contact 
 <div>
-
-<p> - 📫 How to reach me: bakhytulynurzhan@gmail.com </p>
+<p> - 📫 Email: bakhytulynurzhan@gmail.com </p>
 </div>
 <div align="center">
   <br>
