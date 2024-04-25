@@ -1,6 +1,6 @@
 # Hello, I'm Bakhytuly Nurzhan 👋
 
-I'm a passionate software developer specializing in desktop app. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 
 ## 💻 Technologies & Tools
