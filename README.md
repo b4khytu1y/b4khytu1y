@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Master's student in Computer Science
+- 🎓 Master's student in Data Science
 - 💼 Currently working as a PL/SQL developer
 - 🌱 Learning Machine Learning, Deep Learning, and MLOps
 - 🔭 Passionate about building data-driven solutions
