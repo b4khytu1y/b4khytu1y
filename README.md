@@ -44,20 +44,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameArray&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameArray&layout=compact&hide_border=true&theme=radical" />
-</p>
-
----
 
 ## 📬 Contact Me
 
 <p>
   <b>Email:</b> <a href="mailto:bakhytulynurzhan@gmail.com">bakhytulynurzhan@gmail.com</a><br>
-  <b>LinkedIn:</b> *добавь, если есть*<br>
+  <b>LinkedIn:</b>  <a href="https://www.linkedin.com/in/nurzhan-bakhytuly-89b99824a">Bakhytuly Nurzhan</a>
 </p>
 
 ---
